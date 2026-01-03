@@ -22,6 +22,8 @@ coverage/
 dist/
 build/
 
+# Environment variables
+.env
 
 # OS / editor
 .DS_Store
